@@ -67,11 +67,11 @@ npm o yarn
 ```bash
 # 1. Fork el repositorio en GitHub
 # 2. Clone tu fork
-git clone https://github.com/TU-USUARIO/vega-mapper-app.git
+git clone https://github.com/VelizGG/vega-mapper-app.git
 cd vega-mapper-app
 
 # 3. Agregar upstream
-git remote add upstream https://github.com/USUARIO-ORIGINAL/vega-mapper-app.git
+git remote add upstream https://github.com/VelizGG/vega-mapper-app.git
 
 # 4. Instalar dependencias
 npm install
@@ -403,8 +403,8 @@ Todos los contribuyentes serán reconocidos en:
 Tu ayuda hace que VegaMapper sea mejor para todos.  
 **Cada contribución cuenta, sin importar el tamaño.**
 
-[🌟 Ver Contribuyentes](https://github.com/tu-usuario/vega-mapper-app/contributors) | 
-[📋 Issues Abiertos](https://github.com/tu-usuario/vega-mapper-app/issues) |
-[🔄 Pull Requests](https://github.com/tu-usuario/vega-mapper-app/pulls)
+[🌟 Ver Contribuyentes](https://github.com/VelizGG/vega-mapper-app/contributors) | 
+[📋 Issues Abiertos](https://github.com/VelizGG/vega-mapper-app/issues) |
+[🔄 Pull Requests](https://github.com/VelizGG/vega-mapper-app/pulls)
 
 </div>

@@ -85,7 +85,7 @@ VegaMapper es una aplicación web moderna inspirada en RAWGraphs para crear visu
 ### Pasos
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/vega-mapper-app.git
+git clone https://github.com/VelizGG/vega-mapper-app.git
 
 # 2. Instalar dependencias
 cd vega-mapper-app
@@ -243,7 +243,7 @@ Con la única condición de mantener el copyright notice.
 - **Inline comments**: Código autodocumentado
 
 ### Reportar Issues
-- **[GitHub Issues](https://github.com/tu-usuario/vega-mapper-app/issues)**: Bugs y feature requests
+- **[GitHub Issues](https://github.com/VelizGG/vega-mapper-app/issues)**: Bugs y feature requests
 - **Plantillas**: Usa las plantillas proporcionadas
 - **Labels**: Clasifica apropiadamente (bug, enhancement, question)
 
@@ -260,9 +260,9 @@ Con la única condición de mantener el copyright notice.
 
 **Si te gusta el proyecto, considera darle una ⭐ en GitHub**
 
-[⭐ Star en GitHub](https://github.com/tu-usuario/vega-mapper-app) | 
-[🐛 Reportar Bug](https://github.com/tu-usuario/vega-mapper-app/issues) | 
-[💡 Sugerir Feature](https://github.com/tu-usuario/vega-mapper-app/issues) |
+[⭐ Star en GitHub](https://github.com/VelizGG/vega-mapper-app) | 
+[🐛 Reportar Bug](https://github.com/VelizGG/vega-mapper-app/issues) | 
+[💡 Sugerir Feature](https://github.com/VelizGG/vega-mapper-app/issues) |
 [📖 Documentación](README.md)
 
 **Hecho con ❤️ para la comunidad de visualización de datos**

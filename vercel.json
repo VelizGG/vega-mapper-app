@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "name": "vega-mapper-app",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next",
+      "config": {
+        "distDir": ".next"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/samples/(.*)",
+      "headers": { 
+        "cache-control": "s-maxage=31536000"
+      }
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
+}

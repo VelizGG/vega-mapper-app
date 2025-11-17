@@ -1,0 +1,21 @@
+product,sales,profit,quarter,region,category
+iPhone,125000,45000,Q1,North America,Electronics
+Samsung Galaxy,98000,35000,Q1,Europe,Electronics
+MacBook,85000,38000,Q1,Asia,Electronics
+Dell Laptop,72000,28000,Q1,North America,Electronics
+iPad,91000,40000,Q1,Europe,Electronics
+Surface Pro,68000,25000,Q1,Asia,Electronics
+AirPods,156000,85000,Q1,North America,Electronics
+Sony Headphones,89000,42000,Q1,Europe,Electronics
+Gaming Chair,45000,18000,Q1,Asia,Furniture
+Office Desk,38000,15000,Q1,North America,Furniture
+iPhone,135000,48000,Q2,North America,Electronics
+Samsung Galaxy,102000,38000,Q2,Europe,Electronics
+MacBook,92000,41000,Q2,Asia,Electronics
+Dell Laptop,78000,30000,Q2,North America,Electronics
+iPad,96000,43000,Q2,Europe,Electronics
+Surface Pro,73000,28000,Q2,Asia,Electronics
+AirPods,168000,92000,Q2,North America,Electronics
+Sony Headphones,94000,45000,Q2,Europe,Electronics
+Gaming Chair,48000,19000,Q2,Asia,Furniture
+Office Desk,42000,17000,Q2,North America,Furniture
